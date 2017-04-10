@@ -1,0 +1,22 @@
+body {
+	URL background-color:  green;
+	image-size: 100%;
+	
+}
+h1 {
+	color: pink;
+}
+     #container{
+         width: 250;
+         margin: 0 auto;
+     }
+   p{
+    	color: blue;
+    	font-size: 60px;
+    	background-color: orange;
+    	text-align: center;
+    }
+    .textbold{
+            font-weight: normal;
+            font-size: 30px;
+            }
