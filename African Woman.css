@@ -1,7 +1,12 @@
 body {
-	URL background-color:  green;
-	image-size: 100%;
+	 background-color:  green;
+
 	
+}
+img {
+
+    width: 350px;
+    height:350px;
 }
 h1 {
 	color: pink;
@@ -13,10 +18,19 @@ h1 {
    p{
     	color: blue;
     	font-size: 60px;
-    	background-color: orange;
+    	background-color: gray;
     	text-align: center;
     }
     .textbold{
             font-weight: normal;
             font-size: 30px;
             }
+
+
+ul li {
+
+display: inline;
+margin: 7px;
+font-size: 30px;
+
+}
